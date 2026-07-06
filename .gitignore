@@ -27,3 +27,6 @@ lintstagedrc.json
 commitlint.config.js
 .nvmrc
 tooling/
+.githooks/
+.husky
+.changeset/
