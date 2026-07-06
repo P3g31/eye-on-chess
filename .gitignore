@@ -16,3 +16,13 @@ apps/web/public/sw.js
 apps/web/public/sw.js.map
 apps/web/public/workbox-*.js
 apps/web/public/workbox-*.js.map
+.prettierrc
+.prettierignore
+eslint.config.mjs
+lintstagedrc.json
+.prettierrc
+.prettierignore
+eslint.config.mjs
+lintstagedrc.json
+commitlint.config.js
+.nvmrc
