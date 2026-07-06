@@ -30,3 +30,4 @@ tooling/
 .githooks/
 .husky
 .changeset/
+.lintstagedrc.json
